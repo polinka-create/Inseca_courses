@@ -1,0 +1,298 @@
+<yml_catalog date="2026-02-27 12:00">
+    <shop>
+        <name>Товарный фид</name>
+        <company>Inseca</company>
+        <url>https://inseca.tech</url>
+        <currencies>
+            <currency id="RUB" rate="1"/>
+            <currency id="USD" rate="1"/>
+            <currency id="EUR" rate="1"/>
+        </currencies>
+        <offers>
+            <offer id="1" available="true">
+                <name>Threat Intelligence</name>
+                <url>https://inseca.tech/threat-intelligence-training?utm_source=habr</url>
+                <price>72000</price>
+                <oldprice>97000</oldprice>
+                <currencyId>RUB</currencyId>
+                <specialization>Программирование и IT</specialization>
+                <param name="Дата начала">2026-05-22</param>
+                <duration unit="week">6</duration>
+                <skills>
+                    <skill id="1">Киберразведка</skill>
+                    <skill id="2">Анализ угроз</skill>
+                </skills>
+                <description>Практический курс по киберразведке. Программа позволит получить навыки, необходимые для проактивного реагирования на киберугрозы. Изучите жизненный цикл TI, этапы которого проходит на практике каждый аналитик киберразведки.</description>
+                <param name="Оплата в рассрочку" unit="месяц">Да</param>
+                <param name="Формат занятий">online</param>
+                <param name="Требуемая квалификация">Middle</param>
+                <param name="Получаемая квалификация">Middle</param>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Помощь с трудоустройством">Нет</param>
+            </offer>
+
+            <offer id="2" available="true">
+                <name>Threat Hunting</name>
+                <url>https://inseca.tech/threat-hunter-training?utm_source=habr</url>
+                <price>78000</price>
+                <oldprice>102000</oldprice>
+                <currencyId>RUB</currencyId>
+                <specialization>Программирование и IT</specialization>
+                <param name="Дата начала">2026-03-20</param>
+                <duration unit="week">5</duration>
+                <skills>
+                    <skill id="1">Выявление аномалий</skill>
+                    <skill id="2">Формулировка гипотез</skill>
+                </skills>
+                <description>Практический курс по поиску киберугроз. Программа позволит получить навыки выявления аномалий в инфраструктуре с помощью формулировки гипотез и их дальнейшей проверки. Вы сможете на практике пройти весь жизненный цикл TH.</description>
+                <param name="Оплата в рассрочку" unit="месяц">Да</param>
+                <param name="Формат занятий">online</param>
+                <param name="Требуемая квалификация">Middle</param>
+                <param name="Получаемая квалификация">Middle</param>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Помощь с трудоустройством">Нет</param>
+            </offer>
+
+            <offer id="3" available="true">
+                <name>Vulnerability Management</name>
+                <url>https://inseca.tech/vulnerability-management-training?utm_source=habr</url>
+                <price>72000</price>
+                <oldprice>97000</oldprice>
+                <currencyId>RUB</currencyId>
+                <specialization>Программирование и IT</specialization>
+                <param name="Дата начала">2026-03-20</param>
+                <duration unit="week">5</duration>
+                <skills>
+                    <skill id="1">Управление уязвимостями</skill>
+                    <skill id="2">Сканирование системы</skill>
+                </skills>
+                <description>Практический курс по управлению уязвимостями. Научитесь находить уязвимости в системе и определять их критичность, строить процесс управления уязвимостями в организации совместно с ИТ-отделом, использовать инструменты для сканирования уязвимостей и интерпретировать полученные результаты.</description>
+                <param name="Оплата в рассрочку" unit="месяц">Да</param>
+                <param name="Формат занятий">online</param>
+                <param name="Требуемая квалификация">Middle</param>
+                <param name="Получаемая квалификация">Middle</param>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Помощь с трудоустройством">Нет</param>
+            </offer>
+
+            <offer id="4" available="true">
+                <name>Malware Analysis</name>
+                <url>https://inseca.tech/malware-analyst-training?utm_source=habr</url>
+                <price>96000</price>
+                <oldprice>120000</oldprice>
+                <currencyId>RUB</currencyId>
+                <specialization>Программирование и IT</specialization>
+                <param name="Дата начала">2026-08-21</param>
+                <duration unit="week">14</duration>
+                <skills>
+                    <skill id="1">Анализ вредоносного ПО</skill>
+                    <skill id="2">Изоляция среды</skill>
+                </skills>
+                <description>Практический курс по анализу вредоносного ПО. Курс знакомит с процессами и методами проведения анализа вредоносных программ. Программа позволит получить навыки настройки изолированной виртуальной среды для анализа вредоносных программ, определять вредоносность файлов и собирать информацию из открытых источников.</description>
+                <param name="Оплата в рассрочку" unit="месяц">Да</param>
+                <param name="Формат занятий">online</param>
+                <param name="Требуемая квалификация">Middle</param>
+                <param name="Получаемая квалификация">Middle</param>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Помощь с трудоустройством">Нет</param>
+            </offer>
+
+            <offer id="5" available="true">
+                <name>Digital Forensics & Incident Response</name>
+                <url>https://inseca.tech/digital-forensics-incident-response-training?utm_source=habr</url>
+                <price>78000</price>
+                <oldprice>102000</oldprice>
+                <currencyId>RUB</currencyId>
+                <specialization>Программирование и IT</specialization>
+                <param name="Дата начала">2026-08-21</param>
+                <duration unit="week">8</duration>
+                <skills>
+                    <skill id="1">Цифровая криминалистика</skill>
+                    <skill id="2">Реагирование на инциденты</skill>
+                </skills>
+                <description>Практический курс по цифровой криминалистике и реагированию на инциденты. Программа позволит получить навыки расследования, анализа и реагирования на инциденты кибербезопасности от начала до конца.</description>
+                <param name="Оплата в рассрочку" unit="месяц">Да</param>
+                <param name="Формат занятий">online</param>
+                <param name="Требуемая квалификация">Middle</param>
+                <param name="Получаемая квалификация">Middle</param>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Помощь с трудоустройством">Нет</param>
+            </offer>
+
+            <offer id="6" available="true">
+                <name>Linux Incident Response & Security</name>
+                <url>https://inseca.tech/linux-training?utm_source=habr</url>
+                <price>78000</price>
+                <oldprice>102000</oldprice>
+                <currencyId>RUB</currencyId>
+                <specialization>Программирование и IT</specialization>
+                <param name="Дата начала">2026-05-29</param>
+                <duration unit="week">9</duration>
+                <skills>
+                    <skill id="1">Инцидент-респонс Linux</skill>
+                    <skill id="2">Файловые артефакты</skill>
+                </skills>
+                <description>Практический курс по выявлению, анализу и реагированию на киберугрозы в GNU/Linux-системах. На курсе научитесь выявлять признаки компрометации, работать с файловыми артефактами, памятью и контейнерами, а также проводить расследования инцидентов и выстраивать защиту.</description>
+                <param name="Оплата в рассрочку" unit="месяц">Да</param>
+                <param name="Формат занятий">online</param>
+                <param name="Требуемая квалификация">Middle</param>
+                <param name="Получаемая квалификация">Middle</param>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Помощь с трудоустройством">Нет</param>
+            </offer>
+
+            <offer id="7" available="true">
+                <name>Antifraud</name>
+                <url>https://inseca.tech/antifraud-training?utm_source=habr</url>
+                <price>96000</price>
+                <oldprice>120000</oldprice>
+                <currencyId>RUB</currencyId>
+                <specialization>Программирование и IT</specialization>
+                <param name="Дата начала">2026-09-11</param>
+                <duration unit="week">10</duration>
+                <skills>
+                    <skill id="1">Борьба с мошенничеством</skill>
+                    <skill id="2">Антифрод</skill>
+                </skills>
+                <description>Практический курс по противодействию мошенничеству. На курсе изучите специфику работы в разных сферах: банковский, коммерческий антифрод, маркетплейсы, рекламный антифрод, бонусные программы, экономическая безопасность.</description>
+                <param name="Оплата в рассрочку" unit="месяц">Да</param>
+                <param name="Формат занятий">online</param>
+                <param name="Требуемая квалификация">Middle</param>
+                <param name="Получаемая квалификация">Middle</param>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Помощь с трудоустройством">Нет</param>
+            </offer>
+
+            <offer id="8" available="true">
+                <name>DevSecOps Deep Dive</name>
+                <url>https://inseca.tech/devsecops-training?utm_source=habr</url>
+                <price>105000</price>
+                <oldprice>136000</oldprice>
+                <currencyId>RUB</currencyId>
+                <specialization>Программирование и IT</specialization>
+                <param name="Дата начала">2026-11-04</param>
+                <duration unit="month">3</duration>
+                <skills>
+                    <skill id="1">Безопасная разработка</skill>
+                    <skill id="2">Внедрение инструментов безопасности</skill>
+                </skills>
+                <description>Практический курс по построению процессов безопасной разработки. Программа позволит пройти полный путь от внедрения инструментов безопасности до выстраивания полноценных процессов.</description>
+                <param name="Оплата в рассрочку" unit="месяц">Да</param>
+                <param name="Формат занятий">online</param>
+                <param name="Требуемая квалификация">Middle</param>
+                <param name="Получаемая квалификация">Middle</param>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Помощь с трудоустройством">Нет</param>
+            </offer>
+
+            <offer id="9" available="true">
+                <name>OSINT</name>
+                <url>https://inseca.tech/osint-training?utm_source=habr</url>
+                <price>64800</price>
+                <oldprice>72000</oldprice>
+                <currencyId>RUB</currencyId>
+                <specialization>Программирование и IT</specialization>
+                <param name="Дата начала">2026-08-28</param>
+                <duration unit="week">4</duration>
+                <skills>
+                    <skill id="1">Сбор информации</skill>
+                    <skill id="2">Анализ источников</skill>
+                </skills>
+                <description>Практический курс по методам сбора и анализа информации из открытых источников. На курсе научитесь пользоваться инструментами сбора данных и методами анализа, решая реальные задачи.</description>
+                <param name="Оплата в рассрочку" unit="месяц">Да</param>
+                <param name="Формат занятий">online</param>
+                <param name="Требуемая квалификация">Middle</param>
+                <param name="Получаемая квалификация">Middle</param>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Помощь с трудоустройством">Нет</param>
+            </offer>
+
+            <offer id="10" available="true">
+                <name>Аналитик SOC</name>
+                <url>https://inseca.tech/soc-training?utm_source=habr</url>
+                <price>105000</price>
+                <oldprice>136000</oldprice>
+                <currencyId>RUB</currencyId>
+                <specialization>Программирование и IT</specialization>
+                <param name="Дата начала">2026-06-05</param>
+                <duration unit="month">3</duration>
+                <skills>
+                    <skill id="1">SOC мониторинг</skill>
+                    <skill id="2">Реагирование на инциденты</skill>
+                </skills>
+                <description>Практический курс по мониторингу и реагированию на инциденты. Практические работы курса выполняются в SOC-лаборатории Inseca.</description>
+                <param name="Оплата в рассрочку" unit="месяц">Да</param>
+                <param name="Формат занятий">online</param>
+                <param name="Требуемая квалификация">Junior</param>
+                <param name="Получаемая квалификация">Junior</param>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Помощь с трудоустройством">Да</param>
+            </offer>
+
+            <offer id="11" available="true">
+                <name>OpenCTI</name>
+                <url>https://inseca.tech/opencti-training?utm_source=habr</url>
+                <price>27000</price>
+                <oldprice>36000</oldprice>
+                <currencyId>RUB</currencyId>
+                <specialization>Программирование и IT</specialization>
+                <param name="Дата начала">в любой момент</param>
+                <duration unit="hour">15</duration>
+                <skills>
+                    <skill id="1">Анализ киберугроз</skill>
+                    <skill id="2">Работа с OpenCTI</skill>
+                </skills>
+                <description>Практический курс по работе с платформой анализа киберугроз OpenCTI. Позволяет изучить функционал платформы и оттачивать мастерство.</description>
+                <param name="Оплата в рассрочку" unit="месяц">Да</param>
+                <param name="Формат занятий">online</param>
+                <param name="Требуемая квалификация">Middle</param>
+                <param name="Получаемая квалификация">Middle</param>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Помощь с трудоустройством">Нет</param>
+            </offer>
+
+            <offer id="12" available="true">
+                <name>Purple Teaming</name>
+                <url>https://inseca.tech/purple-teaming-training?utm_source=habr</url>
+                <price>78000</price>
+                <oldprice>102000</oldprice>
+                <currencyId>RUB</currencyId>
+                <specialization>Программирование и IT</specialization>
+                <param name="Дата начала">2026-03-13</param>
+                <duration unit="week">6</duration>
+                <skills>
+                    <skill id="1">Киберучения</skill>
+                    <skill id="2">Purple Teaming</skill>
+                </skills>
+                <description>Практический курс по проведению киберучений и внедрению практики Purple Teaming. На курсе научитесь устранять несогласованность между защитой и методами злоумышленников, улучшать процессы обнаружения угроз и развивать устойчивость организации к атакам.</description>
+                <param name="Оплата в рассрочку" unit="месяц">Да</param>
+                <param name="Формат занятий">online</param>
+                <param name="Требуемая квалификация">Middle</param>
+                <param name="Получаемая квалификация">Middle</param>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Помощь с трудоустройством">Нет</param>
+            </offer>
+
+                  <offer id="13" available="true">
+                <name>Introduction to Cybersecurity</name>
+                <url>https://inseca.tech/informationsecurity?utm_source=habr</url>
+                <price>0</price>
+                <currencyId>RUB</currencyId>
+                <specialization>Программирование и IT</specialization>
+                <param name="Дата начала">в любой момент</param>
+                <duration unit="month">1.5</duration>
+                <skills>
+                    <skill id="1">Основы сети</skill>
+                    <skill id="2">Операционные системы</skill>
+                </skills>
+                <description>Практический курс для старта карьеры специалиста по мониторингу и реагированию на инциденты. Курс знакомит с основами сети, операционными системами, уязвимостями и средствами защиты.</description>
+                <param name="Оплата в рассрочку" unit="месяц">Нет</param>
+                <param name="Формат занятий">online</param>
+                <param name="Требуемая квалификация">Intern</param>
+                <param name="Получаемая квалификация">Intern</param>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Помощь с трудоустройством">Нет</param>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
